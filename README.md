@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikra
 - 👀 I’m interested in learning new technologies and skills, coding
-- 🌱 I’m currently learning Java, html, engineering.
+- 🌱 I’m currently learning Java, html,python, css, Javascript, engineering.
 - 💞️ I’m looking to collaborate on java projects, web design.
 - 📫 How to reach me, my mail address is arifp668@gmail.com
 
